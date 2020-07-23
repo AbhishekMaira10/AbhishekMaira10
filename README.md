@@ -23,7 +23,7 @@ I support Manchester United 👿 and Barcelona 😎.
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on my capstone project;
+- 🔭 I’m currently working on my [**capstone project**](https://github.com/AbhishekMaira10/deldrone);
 - 🌱 I’m currently learning JavaScript, Flutter, Django;
 - 👨🏻‍💻 I’m looking to collaborate on kick ass products;
 - 💬 Ask me about anything, I am happy to help;
