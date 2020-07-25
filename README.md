@@ -17,7 +17,6 @@ Hi, I'm [Abhishek Maira](https://www.abhishekmaira.com/), a web and app develope
 I support Manchester United 👿 and Barcelona 😎.
 
 <br/>
-<br/>
 
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
@@ -43,4 +42,4 @@ I support Manchester United 👿 and Barcelona 😎.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=AbhishekMaira10&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekMaira10&show_icons=true&theme=tokyonight" alt="Abhishek-Maira" /> </p>
