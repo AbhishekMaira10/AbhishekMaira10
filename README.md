@@ -11,6 +11,7 @@
 </a>
 
 <br />
+<br />
 
 Hi, I'm [Abhishek Maira](https://www.abhishekmaira.com/), a web and app developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I play chess ♘ and Fifa ⚽.
 I support Manchester United 👿 and Barcelona 😎.
@@ -46,11 +47,5 @@ I support Manchester United 👿 and Barcelona 😎.
 📊 **This week I spent my time on**
 
 <!--START_SECTION:waka-->
-```text
-Other    30 hrs 4 mins   ████████████████░░░░░░░░░   67.21 % 
-HTML     3 hrs 40 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-SCSS     2 hrs 53 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-Python   2 hrs 35 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-CSS      1 hr 55 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-```
+<script src="https://gist.github.com/AbhishekMaira10/6bf4438dfea0f3eaa740af9f397e3dcb.js"></script>
 <!--END_SECTION:waka-->
