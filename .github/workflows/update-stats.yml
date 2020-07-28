@@ -11,6 +11,6 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: matchai/waka-readme@master
+      - uses: matchai/waka-box@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
