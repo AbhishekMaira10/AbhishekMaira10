@@ -47,5 +47,4 @@ I support Manchester United 👿 and Barcelona 😎.
 📊 **This week I spent my time on**
 
 <!--START_SECTION:waka-->
-<script src="https://gist.github.com/AbhishekMaira10/6bf4438dfea0f3eaa740af9f397e3dcb.js"></script>
 <!--END_SECTION:waka-->
