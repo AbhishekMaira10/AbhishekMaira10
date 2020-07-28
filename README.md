@@ -21,7 +21,7 @@ I support Manchester United 👿 and Barcelona 😎.
 <!-- https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif -->
 <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 - 🔭 I’m currently working on my [**capstone project**](https://github.com/AbhishekMaira10/deldrone);
 - 🌱 I’m currently learning JavaScript, Flutter, Django;
@@ -45,15 +45,12 @@ I support Manchester United 👿 and Barcelona 😎.
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekMaira10&show_icons=true&theme=tokyonight" alt="Abhishek-Maira" /> </p>
 <br/>
-<br/>
-
 <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=COVID-19-Tracker&theme=dracula" />
 </a>
 <a href="https://github.com/AbhishekMaira10/deldrone">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=deldrone&theme=dracula" />
 </a>
-
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
