@@ -2,15 +2,15 @@
 
 <p align="center">
   <a href="https://twitter.com/MairaAbhishek">
-    <img src="/Resources/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   </a>     
 
   <a href="https://www.linkedin.com/in/abhishek-maira/">
-    <img src="/Resources/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://www.instagram.com/abhishek_maira10/">
-    <img src="/Resources/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
   </a>
 
    <a href="https://marketplace.visualstudio.com/publishers/AbhishekMaira">
@@ -18,13 +18,9 @@
   </a>
 </p>
 
-<br />
-<br />
-
 Hi, I'm [Abhishek Maira](https://www.abhishekmaira.com/), a web and app developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I play chess ♘ and Fifa ⚽.
 I support Manchester United 👿 and Barcelona 😎.
 
-<br/>
 
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
