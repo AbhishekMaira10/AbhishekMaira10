@@ -38,26 +38,25 @@ I support Manchester United 👿 and Barcelona 😎.
 <p align="left">
   
   
-  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/html.svg" alt="html5" style="vertical-align:top; margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/html.svg" alt="html5" style="vertical-align:top; margin:4px 2px">
   
-  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/css3.svg" alt="css3" style="vertical-align:top; margin:4px 2px">
   
-  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/sass.svg" alt="sass" style="vertical-align:top; margin:4px 2px">
   
-  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px 2px">
   
-  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
-  <br/>
+  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/js.svg" alt="js" style="vertical-align:top; margin:4px 2px">
   
-  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/python.svg" alt="python" style="vertical-align:top; margin:4px 2px">
 
-  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/flutter.svg" alt="flutter" style="vertical-align:top; margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px 2px">
 
-  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/dart_colour.svg" alt="dart" style="vertical-align:top; margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/dart_colour.svg" alt="dart" style="vertical-align:top; margin:4px 2px">
 
-  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/visualstudio_code.svg" alt="visualstudio code" style="vertical-align:top; margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/visualstudio_code.svg" alt="visualstudio code" style="vertical-align:top; margin:4px 2px">
 
-  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/chrome.svg" alt="chrome" style="vertical-align:top; margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px 2px">
   </a>
 
 </p>
