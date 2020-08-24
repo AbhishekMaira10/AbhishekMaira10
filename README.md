@@ -48,6 +48,26 @@ I support Manchester United 👿 and Barcelona 😎.
 
 </p>
 
+
+
+---
+### 📢 Find me elsewhere
+<p align="center">
+  <a href="https://www.codechef.com/users/abhimaira_10">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
+  </a>
+  
+  <a href="https://leetcode.com/abhishekmaira1999/">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="https://www.hackerrank.com/abhishekmaira191">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
+  </a>    
+</p>
+
+<hr>
+
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekMaira10&show_icons=true&theme=tokyonight" alt="Abhishek-Maira" /> </p>
 
 <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
