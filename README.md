@@ -1,25 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 <p align="center">
-  <a href="https://twitter.com/MairaAbhishek">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  </a>     
-
-  <a href="https://www.linkedin.com/in/abhishek-maira/">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://www.instagram.com/abhishek_maira10/">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
-  </a>
-
-   <a href="https://marketplace.visualstudio.com/publishers/AbhishekMaira">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/visualStudioExtensions.svg" alt="VS Marketplace" style="vertical-align:top; margin:4px">
-  </a>
-
-   <a href="mailto:abhishekmaira1999@gmail.com">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/gmail.svg" alt="VS Marketplace" style="vertical-align:top; margin:4px">
-  </a>
+<a href="https://twitter.com/MairaAbhishek" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/twitter.png?raw=true"></a>&nbsp;&nbsp; 
+<a href="https://www.linkedin.com/in/abhishek-maira/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/abhishek_maira10/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/8q058td4ynjeztfx5io86m5pt" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://marketplace.visualstudio.com/publishers/AbhishekMaira" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/visual-studio.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
 Hi, I'm [Abhishek Maira](https://www.abhishekmaira.com/), a web and app developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I play chess ♘ and Fifa ⚽.
@@ -32,6 +18,7 @@ I support Manchester United 👿 and Barcelona 😎.
  - 📫 How to reach me: [abhishekmaira1999@gmail.com](mailto:abhishekmaira1999@gmail.com);
  - 🔗 My website: [https://www.abhishekmaira.com/](https://www.abhishekmaira.com/)
  
+ </br>
 
 **Languages and Tools:**
 
@@ -51,7 +38,7 @@ I support Manchester United 👿 and Barcelona 😎.
   <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/python.svg" alt="python" style="vertical-align:top; margin:4px 2px">
 
   <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px 2px">
-
+  
   <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/dart_colour.svg" alt="dart" style="vertical-align:top; margin:4px 2px">
 
   <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/visualstudio_code.svg" alt="visualstudio code" style="vertical-align:top; margin:4px 2px">
@@ -63,10 +50,10 @@ I support Manchester United 👿 and Barcelona 😎.
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekMaira10&show_icons=true&theme=tokyonight" alt="Abhishek-Maira" /> </p>
 
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker">
+<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=COVID-19-Tracker&theme=dracula" />
 </a>
-<a href="https://github.com/AbhishekMaira10/deldrone">
+<a href="https://github.com/AbhishekMaira10/deldrone" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=deldrone&theme=dracula" />
 </a>
 <div align="center">
