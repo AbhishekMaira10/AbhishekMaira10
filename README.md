@@ -20,8 +20,11 @@ I support Manchester United 👿 and Barcelona 😎.
 
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
- 📫 How to reach me: [abhishekmaira1999@gmail.com](mailto:abhishekmaira1999@gmail.com);
- 🔗 My website: [https://www.abhishekmaira.com/](https://www.abhishekmaira.com/)
+
+ - 📫 How to reach me: [abhishekmaira1999@gmail.com](mailto:abhishekmaira1999@gmail.com);
+ - 🔗 My website: [https://www.abhishekmaira.com/](https://www.abhishekmaira.com/)
+ 
+ <br/>
 
 **Languages and Tools:**
 
@@ -35,8 +38,10 @@ I support Manchester United 👿 and Barcelona 😎.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+
+
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekMaira10&show_icons=true&theme=tokyonight" alt="Abhishek-Maira" /> </p>
-<br/>
+
 <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=COVID-19-Tracker&theme=dracula" />
 </a>
@@ -46,5 +51,4 @@ I support Manchester United 👿 and Barcelona 😎.
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
-
 </div>
