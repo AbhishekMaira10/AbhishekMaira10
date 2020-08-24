@@ -14,7 +14,11 @@
   </a>
 
    <a href="https://marketplace.visualstudio.com/publishers/AbhishekMaira">
-    <img src="/Resources/visualStudioExtensions.svg" alt="VS Marketplace" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/visualStudioExtensions.svg" alt="VS Marketplace" style="vertical-align:top; margin:4px">
+  </a>
+
+   <a href="mailto:abhishekmaira1999@gmail.com">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/gmail.svg" alt="VS Marketplace" style="vertical-align:top; margin:4px">
   </a>
 </p>
 
@@ -31,16 +35,32 @@ I support Manchester United 👿 and Barcelona 😎.
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<p align="left">
+  
+  
+  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/html.svg" alt="html5" style="vertical-align:top; margin:6px 4px">
+  
+  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+  
+  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px">
+  
+  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
+  
+  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+  <br/>
+  
+  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
 
+  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/flutter.svg" alt="flutter" style="vertical-align:top; margin:6px 4px">
+
+  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/dart_colour.svg" alt="dart" style="vertical-align:top; margin:6px 4px">
+
+  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/visualstudio_code.svg" alt="visualstudio code" style="vertical-align:top; margin:6px 4px">
+
+  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/chrome.svg" alt="chrome" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+</p>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekMaira10&show_icons=true&theme=tokyonight" alt="Abhishek-Maira" /> </p>
 
