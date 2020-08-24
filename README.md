@@ -63,10 +63,16 @@ I support Manchester United 👿 and Barcelona 😎.
 
   <a href="https://www.hackerrank.com/abhishekmaira191">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
-  </a>    
+  </a>
+  
+  <a href="https://www.codewars.com/users/abhimaira_10">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
+  </a> 
 </p>
 
 <hr>
+
+</br>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekMaira10&show_icons=true&theme=tokyonight" alt="Abhishek-Maira" /> </p>
 
