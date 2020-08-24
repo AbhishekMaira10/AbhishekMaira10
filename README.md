@@ -20,16 +20,8 @@ I support Manchester United 👿 and Barcelona 😎.
 
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
-
-**Talking about Personal Stuff:**
-
-- 🔭 I’m currently working on my [**capstone project**](https://github.com/AbhishekMaira10/deldrone);
-- 🌱 I’m currently learning JavaScript, Flutter, Django;
-- 👨🏻‍💻 I’m looking to collaborate on kick ass products;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: We have two universal languages: mathematics 🧮, and music 🎼. One to describe the universe, and one to describe how we feel about it;
-- 📫 How to reach me: [abhishekmaira1999@gmail.com](mailto:abhishekmaira1999@gmail.com);
-- 🔗 My website: [https://www.abhishekmaira.com/](https://www.abhishekmaira.com/)
+ 📫 How to reach me: [abhishekmaira1999@gmail.com](mailto:abhishekmaira1999@gmail.com);
+ 🔗 My website: [https://www.abhishekmaira.com/](https://www.abhishekmaira.com/)
 
 **Languages and Tools:**
 
