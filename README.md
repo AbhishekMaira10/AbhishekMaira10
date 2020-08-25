@@ -47,7 +47,7 @@ I support Manchester United 👿 and Barcelona 😎.
 
   <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/visualstudio_code.svg" alt="visualstudio code" style="vertical-align:top; margin:4px 2px">
 
-  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px 2px">
+  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px 2px">
   </a>
 
 </p>
