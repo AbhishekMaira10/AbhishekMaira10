@@ -78,7 +78,12 @@ I support Manchester United 👿 and Barcelona 😎.
 
 </br>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekMaira10&show_icons=true&theme=tokyonight" alt="Abhishek-Maira" /> </p>
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="Abhishek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbhishekMaira10&show_icons=true" />
+
+</details>
 
 <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=COVID-19-Tracker&theme=dracula" />
