@@ -25,33 +25,18 @@ I support Manchester United 👿 and Barcelona 😎.
  </br>
 
 **Languages and Tools:**
-
-<p align="left">
-  
-  
-  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/html.svg" alt="html5" style="vertical-align:top; margin:4px 2px">
-  
-  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/css3.svg" alt="css3" style="vertical-align:top; margin:4px 2px">
-  
-  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/sass.svg" alt="sass" style="vertical-align:top; margin:4px 2px">
-  
-  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px 2px">
-  
-  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/js.svg" alt="js" style="vertical-align:top; margin:4px 2px">
-  
-  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/python.svg" alt="python" style="vertical-align:top; margin:4px 2px">
-
-  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px 2px">
-  
-  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/dart_colour.svg" alt="dart" style="vertical-align:top; margin:4px 2px">
-
-  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/visualstudio_code.svg" alt="visualstudio code" style="vertical-align:top; margin:4px 2px">
-
-  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px 2px">
-  </a>
-
-</p>
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
 ---
@@ -76,7 +61,6 @@ I support Manchester United 👿 and Barcelona 😎.
 
 <hr>
 
-</br>
 
 <details>
   <summary>:zap: Github Stats</summary>
@@ -84,6 +68,8 @@ I support Manchester United 👿 and Barcelona 😎.
   <img align="left" alt="Abhishek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbhishekMaira10&show_icons=true" />
 
 </details>
+
+</br>
 
 <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=COVID-19-Tracker&theme=dracula" />
